@@ -111,8 +111,9 @@
 }
 .main__content h1 {
     font-size: 4rem;
-    background-color: #201413;
-    background-image: linear-gradient(to top, #a32d2d 0%, #160e0b 100%);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #d48a84;
+    background-image: linear-gradient(to top, red 0%, #fe5196) 100%;
     background-size: 100%;
     text-align: center;
     align-content: center;
@@ -122,7 +123,8 @@
     -moz-text-fill-color: transparent;
 }
 .main__content h2 {
-    font-size: 4rem;
+    font-size: 5 rem;
+    font-family: 'Lucida Sans';
     background-color: #ff8177;
     color: #c9afaf;
     background-size: 100%;
@@ -310,6 +312,6 @@
 .information {
     text-align: center;
     justify-content: center;
-    background-color: #f77062;
+    background-color: #2C3333;
     color: #fff;
 }
